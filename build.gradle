@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'net.devtech'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
